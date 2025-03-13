@@ -1,2 +1,1 @@
-# oneone
-Only one God
+OK የክርስትና ሐይማኖት ህገ መንግስት መጸሐፍ ቅዱስ ነው፡፡ ቢያንስ ቢያንስ የአንድ ክርስትና ሀይማኖት ተቋም ዋና ዋና ጉዳዮች ሙሉ በሙሉ መጸሐፍ ቅዱስ ላይ መገኘት አለበት፡፡ ይህ ገጽ 95 ከመቶ መጸሐፍ ቅዱሳዊ የሆኑ እጅግ አስፈላጊ ጉዳዮችን ይዟል፡፡ ያንብቡት መሰረታዊ የሆነ ክርስቲያን ሊያውቀው የሚገባን ጉዳይ በአጭሩ ያብራራል፡፡ It emphasizing the importance of the Bible as the foundation of Christian doctrine. The page highlights key religious topics and encourages readers to explore fundamental Christian beliefs.

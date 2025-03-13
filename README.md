@@ -1,3 +1,3 @@
 የክርስትናችን ሕገ-መንግስት መጸሐፍ ቅዱስ ነው፡፡ የሀይማኖታችን ምሰሶ ጉዳዮች መጸሐፍ ቅዱስ ላይ ቀጥታ የማይገኙ ከሆነ ጥያቄ ይፈጥራል፡፡ መሰረታዊ የመጸሐፍ ቅዱስ ትምህርት በአጭር ጊዜ ለማግኘት ይህንን ያንብቡ፡፡
-https://apostolic226.github.io/oneone/index.html
+https://apostolic226.github.io/oneone/
 

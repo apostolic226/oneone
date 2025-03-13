@@ -1,0 +1,84 @@
+body {
+    font-family: 'Noto Sans Ethiopic', sans-serif;
+    margin: 0;
+    padding: 0;
+    width: 98%;
+    font-weight: bold;
+}
+/* Main container taking 80% width */
+.container {
+    width: 95%;
+    margin: auto; /* Centers the container */
+}
+header {
+    font-size: 24px;
+    text-align: center;
+    margin: 10px 0;
+    background-color: blue;
+    color: white;
+}
+nav {
+    text-align: right;
+    margin: 10px;
+    word-spacing:0.5cm;
+}
+
+.chap {
+    text-align: left;
+    margin-left:0px;
+    line-height: 1cm;width: 98%;
+    font-size: 18px;
+
+}
+.chap ul {
+    list-style: none;
+    padding: 0;
+}
+.chap li {
+    position-try-order: ;
+    margin-right: 8px;
+    text-align: left;
+    color: red;
+}
+.main, .after {
+    padding:2px; /* Reduce padding */
+    max-width:90%;
+    margin: 10px auto; /* Reduce top margin */
+    text-align: center;
+    font-size: 18px;
+    line-height:  1.5em;
+}
+
+footer {
+    background: #98f108;
+    padding:5px;
+    text-align: center;
+    width: 98%;
+    margin: 6px;
+}
+footer input {
+    padding: 8px;
+    margin: 10px 0;
+    width: 50%;
+    border: 2px solid;
+    font-size: large;
+    background-color: white;
+    text-align: center;
+    
+}
+footer button {
+padding:2px;
+margin: 5px;
+border: 2px solid;
+width: 2cm;
+font-size: x-large;
+background-color: blue;
+color: white;
+
+} 
+
+.view-questions {
+    display: block;
+    margin-top: 10px;
+}
+

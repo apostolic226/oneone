@@ -1,0 +1,87 @@
+*{
+    color: white;
+    font-size: 18px;
+    line-height:1cm;
+    background-color: blue;
+    text-align: center;
+    font-weight: bold;
+}
+body {
+        font-family: 'Noto Sans Ethiopic', sans-serif;
+        margin:5%;
+        padding: 0%;
+        width:outo;
+        }
+ nav {
+    text-align:left;
+}
+h1 {
+text-align: center;
+color:wheat;
+line-height: 0%;
+font-size: 22px;
+}
+h2, h3 {
+text-align: center;
+color: wheat;
+line-height: 0%;
+font-size: 20px;
+}
+h4 {
+    color: aqua;
+    line-height:0%;
+    text-decoration: underline;
+    text-align: center;
+}
+section {
+text-align: left;
+}
+p {
+    text-align: justify;
+    color: white;
+}
+
+ul, ol, li {
+text-align: left;
+.rectangle {
+    border: 2px solid red; /* Border around text */
+    padding: 5px; /* Space between text and border */
+    display: inline-block; /* Keeps it inline */}
+}
+footer {
+    background: #98f108;
+    padding:5px;
+    text-align: center;
+    width: 98%;
+    margin: 6px;
+}
+footer input {
+    padding: 8px;
+    margin: 10px 0;
+    width: 50%;
+    border: 2px solid;
+    font-size: large;
+    background-color:white;
+    color: black;
+    
+}
+footer button {
+padding:2px;
+margin: 5px;
+border: 2px solid;
+width: 2cm;
+font-size: x-large;
+background-color: blue;
+color: white;
+
+} 
+
+.view-questions {
+    display: block;
+    margin-top: 10px;
+}
+
+
+
+
+

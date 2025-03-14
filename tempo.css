@@ -45,6 +45,8 @@ p {
 
 ul, ol, li {
 text-align: left;
+line-height:1cm;
+    
 .rectangle {
     border: 2px solid red; /* Border around text */
     padding: 5px; /* Space between text and border */
